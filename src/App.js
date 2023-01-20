@@ -10,6 +10,7 @@ function App() {
       <CandleChart/>
       <br/>
       <p>Task by <b>Nilesh Anand</b></p>
+     <p>Plaese Find The Source <a href='https://github.com/nil-singh/Tesseract-TechnoLabs-task'>Code here </a></p>
     </div>
   );
 }
